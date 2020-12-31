@@ -1,2 +1,2 @@
-# wordpress-template
-Modelo para criação de temas no Wordpress.
+# worpress-basic-template
+Modelo para a base de temas no Wordpress.
